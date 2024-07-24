@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rahul86190
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning python
+- THIS repositry fives basic knoweledge that how progrsms are work in python
 
 
 
